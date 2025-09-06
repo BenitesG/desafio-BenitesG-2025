@@ -45,9 +45,6 @@ Este projeto utiliza Node.js e Jest para validação.
 Primeiro, clone este repositório para a sua máquina local:
 ```bash
 git clone https://github.com/BenitesG/desafio-BenitesG-2025.git
-```
-
-```bash
 cd desafio-BenitesG-2025
 ```
 
@@ -59,9 +56,14 @@ npm install
 ```
 
 **4. Executando os Testes**
-Para validar a solução e garantir que todas as regras foram implementadas corretamente, execute o seguinte comando:
-
+A solução é considerada correta e validada quando todos os testes no arquivo src/abrigo-animais.test.js passam com sucesso.
 ```bash
 npm test
 ```
 A solução está correta quando todos os testes fornecidos no arquivo src/abrigo-animais.test.js passarem pelos testes com sucesso.
+
+### 💻 Tecnologias Utilizadas
+
+-   **Linguagem:** JavaScript (ES6+)
+-   **Ambiente de Execução:** Node.js
+-   **Framework de Testes:** Jest
